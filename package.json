@@ -1,8 +1,21 @@
 {
-	"name": "rionour-website",
-	"version": "0.0.0",
-	"private": true,
-	"dependencies": {
-		
-	}
+  "name": "rionour-website",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {},
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rionour/rionour.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rionour/rionour.github.io/issues"
+  },
+  "homepage": "https://github.com/rionour/rionour.github.io#readme"
 }
